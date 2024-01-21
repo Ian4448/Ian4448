@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ian Borges</h1>
-<h3 align="center">A new software developer from Cuba</h3>
+<h3 align="center">A new computer science student from FIU</h3>
 
 - 🌱 I’m currently learning **Java GUI implementation**
 
