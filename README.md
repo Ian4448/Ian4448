@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ian Borges</h1>
 <h3 align="center">A new computer science student from FIU</h3>
 
-- 🌱 I’m currently learning **Java GUI implementation**
+- 🌱 I’m currently learning **Java Spring**
 
 - 💬 Ask me about **Python, Java**
 
