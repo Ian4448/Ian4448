@@ -1,8 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ian Borges</h1>
-<h3 align="center">A Sophomore Computer Science student from FIU</h3>
+# Hey There! 👋
 
-- 💬 Ask me about **Java, Python, C, C++**
+I'm Ian Borges - a backend developer and sophomore university student at Florida International University. I'm interested in expanding my software development knowledge across different frameworks and languages but I'm currently proficient in Java, Python, C/C++.
 
-- 📫 How to reach me **ianborges.school@gmail.com**
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=c" alt="C" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="48" height="48"/>
+</div>
